@@ -1,0 +1,4 @@
+﻿,label,count,mean,std,min,max,skew,kurtosis,missing_count
+psych_safety,심리적 안전감,2000.0,3.457,0.817,1.0,5.0,-0.613,0.367,0
+knowledge_sharing,지식공유,2000.0,3.822,0.621,1.0,5.0,-0.569,0.893,0
+innovative_behavior,혁신행동,2000.0,3.792,0.622,1.0,5.0,-0.32,0.433,0

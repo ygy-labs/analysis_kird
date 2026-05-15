@@ -1,0 +1,5 @@
+﻿outcome,model,R2,Adj_R2,Delta_R2,F,F_p,n
+knowledge_sharing,Model 1: controls,0.009,0.005,,2.484,0.015,2000
+knowledge_sharing,Model 2: controls + psych_safety,0.107,0.104,0.099,29.961,< .001,2000
+innovative_behavior,Model 1: controls,0.062,0.059,,18.888,< .001,2000
+innovative_behavior,Model 2: controls + psych_safety,0.085,0.081,0.023,23.152,< .001,2000

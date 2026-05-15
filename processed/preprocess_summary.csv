@@ -1,0 +1,7 @@
+﻿item,value,note
+raw_rows,2000,원자료 응답자 수
+analysis_rows,2000,결측 제거 후 분석 표본
+removed_rows,0,분석 변수 결측으로 제거된 행
+reverse_coding,0,확인된 역문항 없음
+scale_variables_created,3,문항 평균 척도 수
+dummy_variables_created,7,통제변수 더미 수

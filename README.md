@@ -9,6 +9,7 @@
 - 그래프 이미지는 `processed/figures/`에 저장됩니다.
 - README의 수치는 `scripts/06_generate_readme.py`가 실제 분석 결과 CSV를 읽어 작성합니다.
 - 다른 컴퓨터에서 실행할 경우 `data/raw_data.xlsx`를 두거나 환경변수 `KIRD_RAW_DATA`를 지정해야 합니다.
+- `processed/preprocessed_data.csv`는 행 단위 파생 데이터이므로 공개 GitHub 업로드에서는 제외하고, 로컬에서 재생성하는 것을 권장합니다.
 
 실행 순서는 아래와 같습니다.
 
@@ -55,6 +56,8 @@ pip install -r requirements.txt
 | 6 | `scripts/06_generate_readme.py` | 분석 결과 CSV를 읽어 README 보고서 생성 | `README.md` |
 
 전처리 요약:
+
+주의: `processed/preprocessed_data.csv`는 로컬 재현 실행 시 생성되는 행 단위 분석 데이터입니다. 데이터 사용 제한 가능성을 고려하여 공개 GitHub 업로드에서는 제외하는 것을 권장합니다.
 
 | item | value | note |
 | --- | --- | --- |

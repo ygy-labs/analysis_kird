@@ -1,0 +1,19 @@
+﻿outcome,model,term,label,B,SE,std_beta,t,p,CI_lower,CI_upper
+knowledge_sharing,Model 2: controls + psych_safety,const,const,2.995,0.072,,41.723,< .001,2.854,3.136
+knowledge_sharing,Model 2: controls + psych_safety,gender_2,gender_2,-0.043,0.031,-0.031,-1.415,0.157,-0.103,0.017
+knowledge_sharing,Model 2: controls + psych_safety,age_group_3,age_group_3,-0.006,0.037,-0.004,-0.15,0.881,-0.078,0.067
+knowledge_sharing,Model 2: controls + psych_safety,age_group_4,age_group_4,0.02,0.04,0.014,0.489,0.625,-0.059,0.098
+knowledge_sharing,Model 2: controls + psych_safety,age_group_5,age_group_5,-0.058,0.049,-0.03,-1.171,0.242,-0.154,0.039
+knowledge_sharing,Model 2: controls + psych_safety,age_group_6,age_group_6,-0.044,0.105,-0.009,-0.422,0.673,-0.25,0.161
+knowledge_sharing,Model 2: controls + psych_safety,org_type_2,org_type_2,-0.042,0.028,-0.032,-1.477,0.140,-0.097,0.014
+knowledge_sharing,Model 2: controls + psych_safety,job_type_2,job_type_2,0.024,0.032,0.017,0.752,0.452,-0.039,0.087
+knowledge_sharing,Model 2: controls + psych_safety,psych_safety,심리적 안전감,0.246,0.017,0.324,14.845,< .001,0.214,0.279
+innovative_behavior,Model 2: controls + psych_safety,const,const,3.361,0.073,,46.218,< .001,3.218,3.503
+innovative_behavior,Model 2: controls + psych_safety,gender_2,gender_2,-0.198,0.031,-0.142,-6.393,< .001,-0.259,-0.138
+innovative_behavior,Model 2: controls + psych_safety,age_group_3,age_group_3,0.083,0.037,0.064,2.222,0.026,0.01,0.156
+innovative_behavior,Model 2: controls + psych_safety,age_group_4,age_group_4,0.17,0.041,0.121,4.168,< .001,0.09,0.249
+innovative_behavior,Model 2: controls + psych_safety,age_group_5,age_group_5,0.274,0.05,0.143,5.51,< .001,0.177,0.372
+innovative_behavior,Model 2: controls + psych_safety,age_group_6,age_group_6,0.368,0.106,0.077,3.469,< .001,0.16,0.576
+innovative_behavior,Model 2: controls + psych_safety,org_type_2,org_type_2,-0.03,0.029,-0.022,-1.034,0.301,-0.086,0.027
+innovative_behavior,Model 2: controls + psych_safety,job_type_2,job_type_2,-0.118,0.033,-0.083,-3.616,< .001,-0.182,-0.054
+innovative_behavior,Model 2: controls + psych_safety,psych_safety,심리적 안전감,0.119,0.017,0.156,7.054,< .001,0.086,0.151

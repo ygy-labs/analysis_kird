@@ -1,0 +1,3 @@
+﻿predictor,predictor_label,outcome,outcome_label,partial_r,p,controls
+psych_safety,심리적 안전감,knowledge_sharing,지식공유,0.316,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+psych_safety,심리적 안전감,innovative_behavior,혁신행동,0.156,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"

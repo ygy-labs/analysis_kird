@@ -1,0 +1,4 @@
+﻿scale,label,items,n_items,cronbach_alpha,judgment
+psych_safety,심리적 안전감,"Q12_1, Q12_2, Q12_3, Q12_4",4,0.867,양호
+knowledge_sharing,지식공유,"Q19_7, Q19_8, Q19_9, Q19_10",4,0.795,수용 가능
+innovative_behavior,혁신행동,"Q28_4, Q28_5, Q28_6, Q28_7",4,0.815,양호

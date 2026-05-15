@@ -1,0 +1,9 @@
+﻿predictor,predictor_label,outcome,outcome_label,r,p
+Q12_1,구성원 실수 책임 공유,knowledge_sharing,지식공유,0.223,< .001
+Q12_1,구성원 실수 책임 공유,innovative_behavior,혁신행동,0.115,< .001
+Q12_2,구성원 다양성 존중,knowledge_sharing,지식공유,0.262,< .001
+Q12_2,구성원 다양성 존중,innovative_behavior,혁신행동,0.123,< .001
+Q12_3,구성원 간 도움 요청의 자유로움,knowledge_sharing,지식공유,0.323,< .001
+Q12_3,구성원 간 도움 요청의 자유로움,innovative_behavior,혁신행동,0.154,< .001
+Q12_4,나의 노력에 대한 존중,knowledge_sharing,지식공유,0.284,< .001
+Q12_4,나의 노력에 대한 존중,innovative_behavior,혁신행동,0.088,< .001

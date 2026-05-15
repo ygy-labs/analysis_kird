@@ -1,0 +1,25 @@
+﻿outcome,model,term,label,B,SE,std_beta,t,p,CI_lower,CI_upper
+knowledge_sharing,Item model: controls + Q12 items,const,const,2.975,0.072,,41.567,< .001,2.834,3.115
+knowledge_sharing,Item model: controls + Q12 items,gender_2,gender_2,-0.048,0.03,-0.034,-1.584,0.113,-0.108,0.011
+knowledge_sharing,Item model: controls + Q12 items,age_group_3,age_group_3,-0.009,0.037,-0.007,-0.236,0.813,-0.081,0.063
+knowledge_sharing,Item model: controls + Q12 items,age_group_4,age_group_4,0.018,0.04,0.013,0.462,0.644,-0.06,0.097
+knowledge_sharing,Item model: controls + Q12 items,age_group_5,age_group_5,-0.047,0.049,-0.025,-0.97,0.332,-0.143,0.048
+knowledge_sharing,Item model: controls + Q12 items,age_group_6,age_group_6,-0.046,0.104,-0.01,-0.444,0.657,-0.25,0.158
+knowledge_sharing,Item model: controls + Q12 items,org_type_2,org_type_2,-0.044,0.028,-0.033,-1.565,0.118,-0.099,0.011
+knowledge_sharing,Item model: controls + Q12 items,job_type_2,job_type_2,0.023,0.032,0.016,0.71,0.478,-0.04,0.085
+knowledge_sharing,Item model: controls + Q12 items,Q12_1,구성원 실수 책임 공유,-0.002,0.019,-0.003,-0.11,0.912,-0.04,0.036
+knowledge_sharing,Item model: controls + Q12 items,Q12_2,구성원 다양성 존중,0.038,0.022,0.058,1.745,0.081,-0.005,0.08
+knowledge_sharing,Item model: controls + Q12 items,Q12_3,구성원 간 도움 요청의 자유로움,0.142,0.019,0.221,7.508,< .001,0.105,0.179
+knowledge_sharing,Item model: controls + Q12 items,Q12_4,나의 노력에 대한 존중,0.071,0.02,0.11,3.626,< .001,0.033,0.109
+innovative_behavior,Item model: controls + Q12 items,const,const,3.362,0.073,,46.26,< .001,3.22,3.505
+innovative_behavior,Item model: controls + Q12 items,gender_2,gender_2,-0.201,0.031,-0.144,-6.495,< .001,-0.262,-0.14
+innovative_behavior,Item model: controls + Q12 items,age_group_3,age_group_3,0.085,0.037,0.066,2.294,0.022,0.012,0.158
+innovative_behavior,Item model: controls + Q12 items,age_group_4,age_group_4,0.173,0.041,0.123,4.265,< .001,0.093,0.252
+innovative_behavior,Item model: controls + Q12 items,age_group_5,age_group_5,0.28,0.05,0.146,5.641,< .001,0.183,0.377
+innovative_behavior,Item model: controls + Q12 items,age_group_6,age_group_6,0.374,0.106,0.078,3.533,< .001,0.166,0.581
+innovative_behavior,Item model: controls + Q12 items,org_type_2,org_type_2,-0.032,0.029,-0.024,-1.113,0.266,-0.088,0.024
+innovative_behavior,Item model: controls + Q12 items,job_type_2,job_type_2,-0.12,0.032,-0.084,-3.704,< .001,-0.184,-0.057
+innovative_behavior,Item model: controls + Q12 items,Q12_1,구성원 실수 책임 공유,0.023,0.02,0.036,1.17,0.242,-0.016,0.062
+innovative_behavior,Item model: controls + Q12 items,Q12_2,구성원 다양성 존중,0.024,0.022,0.037,1.102,0.271,-0.019,0.067
+innovative_behavior,Item model: controls + Q12 items,Q12_3,구성원 간 도움 요청의 자유로움,0.103,0.019,0.16,5.345,< .001,0.065,0.14
+innovative_behavior,Item model: controls + Q12 items,Q12_4,나의 노력에 대한 존중,-0.03,0.02,-0.046,-1.504,0.133,-0.069,0.009

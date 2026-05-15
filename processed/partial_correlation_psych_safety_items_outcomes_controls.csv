@@ -1,0 +1,9 @@
+﻿predictor,predictor_label,outcome,outcome_label,partial_r,p,controls
+Q12_1,구성원 실수 책임 공유,knowledge_sharing,지식공유,0.214,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+Q12_1,구성원 실수 책임 공유,innovative_behavior,혁신행동,0.123,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+Q12_2,구성원 다양성 존중,knowledge_sharing,지식공유,0.254,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+Q12_2,구성원 다양성 존중,innovative_behavior,혁신행동,0.13,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+Q12_3,구성원 간 도움 요청의 자유로움,knowledge_sharing,지식공유,0.316,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+Q12_3,구성원 간 도움 요청의 자유로움,innovative_behavior,혁신행동,0.175,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+Q12_4,나의 노력에 대한 존중,knowledge_sharing,지식공유,0.276,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
+Q12_4,나의 노력에 대한 존중,innovative_behavior,혁신행동,0.096,< .001,"gender_2, age_group_3, age_group_4, age_group_5, age_group_6, org_type_2, job_type_2"
